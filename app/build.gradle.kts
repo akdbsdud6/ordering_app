@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.restarauntapp"
+    namespace = "com.example.restaurantapp"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.restarauntapp"
+        applicationId = "com.example.restaurantapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
